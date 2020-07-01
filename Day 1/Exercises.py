@@ -1,7 +1,10 @@
-def addCalc(number1, number2):
-    answer = number1 + number2
-    return answer
+import pdb
 
-addedNumber = addCalc(5,5)
+pdb.set_trace()
 
-print(addedNumber + 20)
+a = "aaa"
+b = "bbb"
+c = "ccc"
+
+final = a + b + c
+print(final)
